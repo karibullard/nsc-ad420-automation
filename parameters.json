@@ -9,7 +9,7 @@
             "value": "karibullard-lecture6"
         },
         "virtualMachineSize": {
-            "value": "karibullardroot"
+            "value": "Standard_B1s"
         },
         "adminUsername": {
             "value": "toddysmroot"
